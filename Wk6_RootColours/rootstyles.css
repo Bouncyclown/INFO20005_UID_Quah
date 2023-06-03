@@ -1,0 +1,11 @@
+:root{
+    --colour-primary: #ff1c24;
+    --colour-secondary: #ffe8a3;
+    --colour-text: #18206F;
+    --colour-bg: #e2f4f4;
+
+    --type-primary: "Woodtype-HTF-gothicextended", sans-serif;
+    --weight-primary: normal;
+    --type-secondary: "FF Mark", sans-serif;
+    --weight-secondary: 500;
+}

@@ -1,0 +1,18 @@
+body{
+    background-color: var(--colour-bg);
+}
+nav{
+    font-family: var(--type-secondary);
+    color: var(--colour-primary);
+    font-weight: var(--weight-secondary);
+}
+h1{
+    color: var(--colour-primary);
+    font-family: var(--type-primary);
+    font-weight: var(--weight-primary);
+}
+div{
+    font-family: var(--type-secondary);
+    color: var(--colour-text);
+    font-weight: var(--weight-secondary);
+}

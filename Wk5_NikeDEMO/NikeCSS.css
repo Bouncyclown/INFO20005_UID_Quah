@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto:wght@100;300&display=swap');
+
+nav {             /* Gray */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+  width: span;
+  padding: 0px 20px 0px 20px;
+  background-color:rgb(0,0,0,.25);
+  margin: -10px;
+}
+
+nav > h1{         /* Red */
+  font-size: 60px;
+  width: 160px;
+  font-family: 'Anton', sans-serif;
+  font-style: italic;
+}
+
+nav > img{        /* Cyan */
+  height: 60px;
+  width: 200px;
+}
+
+nav > div{        /* Green */
+  display: flex;
+  justify-content: space-around;
+  height: 60px;
+  width: 180px;
+  padding: 0px 20px 0px 20px; 
+}
+
+nav > div > img{  /* Blue */
+  height: 60px;
+  width: 60px;
+}
